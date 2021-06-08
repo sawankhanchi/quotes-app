@@ -1,0 +1,30 @@
+.box {
+    background: #fff;
+    width: 40rem;
+    margin: 10rem auto;
+    border-radius: 5px;
+    padding: 3rem;
+}
+
+.text {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.author {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 1.2rem;
+}
+
+.twitter_logo {
+    color: rgb(35, 35, 241);
+    cursor: pointer;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
