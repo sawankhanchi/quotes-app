@@ -1,4 +1,4 @@
 # Quotes App
 
 ## Online Demo
-https://linkedin-clone-8dfed.web.app
+https://quotes-app-rjs.netlify.app
